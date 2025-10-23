@@ -1,0 +1,2 @@
+haxelib remove hxCodec
+haxelib install hxCodec 2.5.1
