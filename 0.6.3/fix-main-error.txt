@@ -1,0 +1,6 @@
+haxelib remove flixel
+haxelib install flixel 4.11.0
+haxelib remove flixel-addons
+haxelib install flixel-addons 2.11.0
+haxelib remove flixel-ui
+haxelib install flixel-ui 2.4.0
